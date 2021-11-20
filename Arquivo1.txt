@@ -1,3 +1,4 @@
 Rio de Janeiro
 Alterações através da feature myfeature_20112021_1338
 Nova alteração na feature feature myfeature_20112021_1338
+Alterações no bugfix bugfix_20112021_1405
